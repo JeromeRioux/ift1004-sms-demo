@@ -8,7 +8,7 @@ Go to [https://www.twilio.com/](https://www.twilio.com/) and sign up for a new a
 Rename the file ```.env.example``` to ```.env``` and insert your API Keys.
 
 ```
-TWILIO_SENDER=YOUR_TWILIO_NUMBER
+TWILIO_FROM_NUMBER=YOUR_TWILIO_NUMBER
 TWILIO_ACCOUNT_SID=YOUR_TWILIO_ACCOUNT_SID
 TWILIO_AUTH_TOKEN=YOUR_TWILIO_AUTH_TOKEN
 ```
