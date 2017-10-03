@@ -18,7 +18,7 @@ TWILIO_AUTH_TOKEN=YOUR_TWILIO_AUTH_TOKEN
 
 Ex: ```python -m venv venv```
 
-PS: Note that you can use the virtualenv package if you want.
+PS: Note that you can use the virtualenv package or the built-in mechanism of your preferred IDE if you want.
 
 # Activate the virtual env
 
