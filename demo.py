@@ -16,7 +16,7 @@ def send_sms(recipient, message):
 
 
 def main():
-    send_sms('+15815782355', 'Hello, world')
+    send_sms('ENTER_THE_RECIPIENT_NUMBER_HERE', 'Hello, world')
 
 if __name__ == '__main__':
     main()
