@@ -15,17 +15,17 @@ TWILIO_AUTH_TOKEN=YOUR_TWILIO_AUTH_TOKEN
 
 # Wait a minute...
 
-Instead of doing it manually, note that the following parts about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
+Instead of doing it manually, note that the following parts (1 and 2) about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
 
 
-# Create a virtual environment
+# 1. Create a virtual environment
 ```python -m venv [VIRTUAL_ENV_NAME]```
 
 Ex: ```python -m venv venv```
 
 PS: Note that you can use the virtualenv package if you want.
 
-# Activate the virtual env
+# 2. Activate the virtual env
 
 ## macOS/Linux
 
@@ -38,10 +38,10 @@ Ex: ```source venv/bin/activate```
 
 Ex: ```venv\Scripts\activate.bat```
 
-# Install project dependencies via pip
+# 3. Install project dependencies via pip
 ```pip install -r requirements.txt```
 
-# Execute the main file
+# 4. Execute the main file
 ```python demo.py```
 
 Enjoy !
