@@ -1,4 +1,4 @@
-Cours IFT-1004 ULAVAL SMS DEMO
+IFT-1004 ULAVAL SMS DEMO
 ====
 
 # Twilio API Keys
