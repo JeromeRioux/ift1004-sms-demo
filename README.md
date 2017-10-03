@@ -15,7 +15,7 @@ TWILIO_AUTH_TOKEN=YOUR_TWILIO_AUTH_TOKEN
 
 # Wait a minute...
 
-The following parts about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
+Instead of doing it manually, note that the following parts about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
 
 
 # Create a virtual environment
